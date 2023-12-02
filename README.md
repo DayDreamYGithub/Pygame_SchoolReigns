@@ -24,3 +24,13 @@ This game will feature different events, and each event can cause the player's a
 このゲームにはさまざまなイベントがあり、それぞれのイベントがプレイヤーの属性を増減させることがあります。現時点では3つのイベントしかありませんが、新しいイベントを追加するのは非常に簡単です。
 
 <hr>
+
+<img src="https://github.com/DayDreamYGithub/Pygame_SchoolReigns/blob/main/github_img/1.png?raw=true" alt="1">
+
+<br>
+
+<img src="https://github.com/DayDreamYGithub/Pygame_SchoolReigns/blob/main/github_img/2.png?raw=true" alt="2">
+
+<br>
+
+<img src="https://github.com/DayDreamYGithub/Pygame_SchoolReigns/blob/main/github_img/3.png?raw=true" alt="3">
